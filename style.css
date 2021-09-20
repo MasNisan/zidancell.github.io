@@ -1,0 +1,20 @@
+body {
+  min-height: 3000px;
+}
+
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #e2edff;
+}
+#services {
+  background-color: #e2edff;
+}
+section {
+  padding-top: 5rem;
+}
+#runningtext {
+  width: 100%;
+  background-color: #e2edff;
+  color: black;
+  position: relative;
+}
