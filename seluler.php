@@ -28,7 +28,7 @@
               <a class="nav-link active" aria-current="page" href="index.html">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="seluler.html">Konter Seluler</a>
+              <a class="nav-link" href="#about">Konter Seluler</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#services">Loket Pembayaran</a>
